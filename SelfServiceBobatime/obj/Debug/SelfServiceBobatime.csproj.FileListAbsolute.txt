@@ -1,0 +1,16 @@
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\bin\Debug\SelfServiceBobatime.exe.config
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime.csprojResolveAssemblyReference.cache
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\MainWindow.g.cs
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\App.g.cs
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime_MarkupCompile.cache
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime_MarkupCompile.lref
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\bin\Debug\SelfServiceBobatime.exe
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\bin\Debug\SelfServiceBobatime.pdb
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\MainWindow.baml
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime.g.resources
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime.Properties.Resources.resources
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime.csproj.GenerateResource.Cache
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime.exe
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\SelfServiceBobatime.pdb
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\Menu.g.cs
+D:\Kuliah C#\SelfServiceBobatime\SelfServiceBobatime\obj\Debug\Menu.baml
